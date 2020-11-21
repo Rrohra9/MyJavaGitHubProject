@@ -1,5 +1,5 @@
 package com.lti.myproj;
-
+import com.lti.myproj.Person;
 public class ClientApp {
 
 	
